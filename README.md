@@ -8,10 +8,10 @@
 
 ## I'm a javascript developer, a frontend developer, and a tech enthusiast! 👨‍💻
 
-* I'm currently looking for a job
-* I'm currently developing some projects as web sites and web apps (these projects are personal and side projects)
-* I'm looking to collaborate on projects
-* I'm always looking to learn something new and at the moment I'm studying Bootstrap and React
+* Currently looking for a job
+* Currently developing some projects as web sites and web apps (these projects are personal and side projects)
+* Looking to collaborate on projects
+* Always looking to learn something new and at the moment I'm studying Bootstrap and React
 * My goals are to be a better developer every day and reach a estable career as a great developer
 <br>
 
