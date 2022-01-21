@@ -9,4 +9,7 @@
 
 ### Please, feel free to reach me whenever you want! If you want to have a better overview of my projects you may want to access [my portfolio web site](GuilhermeZalla.github.io)
 
-## Languages and Tools: ![developer guy](https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png)
+
+![developer guy](https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png)
+
+## Languages and Tools: 
