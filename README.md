@@ -30,15 +30,6 @@
 <img src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" alt="Bootstrap logo" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma logo" width="40" height="40">
 
-
 ## Contact me: 
 
-<a href="https://www.linkedin.com/in/guilhermezalla/">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo" width="30" height="30">
-</a>
-<a href="maito: zallaguilherme@gmail.com">
-<img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1642793594~hmac=bc8c61814aaa1b1bf30b012e81a5f3fb" alt="LinkedIn logo" width="30" height="30">
-</a>
-
-
-
+<a href="https://www.linkedin.com/in/guilhermezalla/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo" width="30" height="30"></a>&nbsp; <a href="maito: zallaguilherme@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1642793594~hmac=bc8c61814aaa1b1bf30b012e81a5f3fb" alt="LinkedIn logo" width="30" height="30"></a>
