@@ -15,7 +15,7 @@
 * My goals are to be a better developer every day and reach a estable career as a great developer
 <br>
 
-### Please, feel free to reach me whenever you want! If you want to have a better overview of my projects you may want to access [my portfolio web site](https://guilhermezalla.github.io)!
+### Please, feel free to reach me whenever you want! If you want to have a better overview of my projects you might want to access [my portfolio web site](https://guilhermezalla.github.io)!
 
 <p align="center">
   <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/man-technologist_1f468-200d-1f4bb.png" alt="Sublime's custom image"/>
