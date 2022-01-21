@@ -1,4 +1,11 @@
 # Hi there 👋
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/x9sGBSj.png" alt="Sublime's custom image" width="420" height="330"/>
+</p>
+<br>
+
 ## I'm a javascript developer, a frontend developer, and a tech enthusiast! 👨‍💻
 
 * I'm currently looking for a job
