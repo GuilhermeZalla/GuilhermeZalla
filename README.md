@@ -1,12 +1,10 @@
 # Hello there 👋
+## I'm a javascript developer, a frontend developer, and a tech enthusiast! 👨‍💻
 <br>
-
 <p align="center">
   <img src="https://i.imgur.com/x9sGBSj.png" alt="Developer working image" width="400" height="330"/>
 </p>
 <br>
-
-## I'm a javascript developer, a frontend developer, and a tech enthusiast! 👨‍💻
 
 * Currently looking for a job
 * Currently developing some projects as web sites and web apps (these projects are personal and side projects)
