@@ -30,6 +30,5 @@
 
 ## Contact me: 
 
-<a href="https://www.linkedin.com/in/guilhermezalla/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo" width="30" height="30"></a> &nbsp; 
-<a href="mailto: zallaguilherme@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1642793594~hmac=bc8c61814aaa1b1bf30b012e81a5f3fb" alt="Gmail logo" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/guilhermezalla/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn logo" width="30" height="30"></a> 
 
