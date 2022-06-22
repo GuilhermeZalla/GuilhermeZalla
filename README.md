@@ -9,8 +9,8 @@
 * Currently looking for a job
 * Currently developing some projects as web sites and web apps (these projects are personal and side projects)
 * Looking to collaborate on projects
-* Always looking to learn something new and at the moment I'm studying Bootstrap and React
-* My goals are to be a better developer every day and reach a estable career as a great developer
+* Always looking to learn and try something new
+* My goals are to be a better every day and reach a estable career as a great developer
 <br>
 
 ### Please, feel free to reach me whenever you want! If you want to have a better overview of my projects you might want to access [my portfolio web site](https://guilhermezalla.netlify.app/)!
