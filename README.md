@@ -1,5 +1,8 @@
-# <h1  align="center">Hello there 👋</h1> 
-## <h2 align="center">Frontend JavaScript Web Developer 👨‍💻</h2>
+<p>
+    <h1 align="center">Hello there 👋</h1> 
+    <h2 align="center">Frontend JavaScript Web Developer 👨‍💻</h2>
+</p>
+
 <br>
 <p align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611573f007d7eef5e33cd7b57d457f8145872c699f1&rid=giphy.gif&ct=g" alt="Developer working image" width="500" height="330"/>
