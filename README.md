@@ -1,6 +1,6 @@
 <p>
     <h1 align="center">Hello there 👋</h1> 
-    <h2 align="center">Frontend JavaScript Web Developer 👨‍💻</h2>
+    <h2 align="center">Full Stack JavaScript Web Developer 👨‍💻</h2>
 </p>
 
 <br>
