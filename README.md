@@ -16,6 +16,26 @@ I'm continuously improving my skills through personal projects and hands-on deve
 
 ---
 
+## 🚀 Featured Projects
+
+### Saldoa
+
+A personal finance management platform built as a full-stack web application, featuring income and expense tracking, transaction categorization, budget management, financial reports, and interactive dashboards to help users monitor their spending and manage their finances.
+
+**Stack:** Laravel, PHP, React, TypeScript, MySQL
+
+[View Repository](https://github.com/GuilhermeZalla/react-saldoa-app)
+
+### PixelRank
+
+A game review platform built as a full-stack application, featuring game search, reviews, ratings, recommendations, comments and integration with the IGDB API.
+
+**Stack:** Laravel, PHP, React, TypeScript, MySQL, IGDB API
+
+[View Repository](https://github.com/GuilhermeZalla/pixel-rank-app)
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Backend
@@ -51,28 +71,8 @@ I'm continuously improving my skills through personal projects and hands-on deve
 
 - Git
 - GitHub
-- GitHub Copilot
+- Cursor
 - Codex
-
----
-
-## 🚀 Featured Projects
-
-### Saldoa
-
-A personal finance management platform built as a full-stack web application, featuring income and expense tracking, transaction categorization, budget management, financial reports, and interactive dashboards to help users monitor their spending and manage their finances.
-
-**Stack:** Laravel, PHP, React, TypeScript, MySQL
-
-[View Repository](https://github.com/GuilhermeZalla/react-saldoa-app)
-
-### PixelRank
-
-A game review platform built as a full-stack application, featuring game search, reviews, ratings, recommendations, comments and integration with the IGDB API.
-
-**Stack:** Laravel, PHP, React, TypeScript, MySQL, IGDB API
-
-[View Repository](https://github.com/GuilhermeZalla/pixel-rank-app)
 
 ---
 
