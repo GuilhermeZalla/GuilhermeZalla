@@ -1,6 +1,6 @@
 # Hello there 👋
 
-## Software Engineer & Full Stack Developer
+## Software Engineer 
 
 Building web applications with a focus on clean, maintainable and scalable solutions.
 
@@ -8,7 +8,7 @@ Building web applications with a focus on clean, maintainable and scalable solut
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Developer with **5+ years of professional experience** building web applications and APIs.
+I'm a Software Engineer with **5+ years of professional experience** building web applications and APIs.
 
 My main focus is **PHP/Laravel on the backend** and **React/TypeScript on the frontend**. I also have experience with Node.js, C#/.NET, databases, cloud infrastructure, and containerization.
 
