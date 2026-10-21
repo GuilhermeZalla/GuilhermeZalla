@@ -80,6 +80,7 @@ A game review platform built as a full-stack application, featuring game search,
 
 - Advanced React & TypeScript
 - Modern Laravel development
+- Modern C# integration with AI
 - Full-stack application architecture
 - AI integration into web applications
 
