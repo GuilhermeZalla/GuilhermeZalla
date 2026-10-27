@@ -78,9 +78,14 @@ A game review platform built as a full-stack application, featuring game search,
 ### Development Tools
 
 - Git
-- GitHub
+- GitHub Actions
 - Cursor
 - Codex
+- Composer
+- npm
+- Vite
+- Postman
+- Docker
 
 ---
 
