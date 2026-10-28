@@ -48,12 +48,9 @@ A game review platform built as a full-stack application, featuring game search,
 
 ### Backend
 
-- PHP
-- Laravel
-- Node.js
-- Express
-- C#
-- .NET
+- PHP / Laravel
+- Node.js / Express
+- C# / .NET
 
 ### Frontend
 
@@ -63,7 +60,6 @@ A game review platform built as a full-stack application, featuring game search,
 - Vue
 - Tailwind CSS
 - HTML5
-- CSS3
 
 ### Databases & Infrastructure
 
