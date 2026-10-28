@@ -2,7 +2,7 @@
 
 ## Software Engineer 
 
-Building web applications with a focus on clean, maintainable and scalable solutions.
+Building scalable, maintainable web applications, APIs, and backend solutions.
 
 ---
 
