@@ -81,13 +81,14 @@ AI-assisted development: Cursor, Codex
 
 ---
 
-## 📚 Currently Learning
+## ## 📚 Currently Learning
 
 - Advanced React & TypeScript
-- Modern Laravel development
-- Modern C# integration with AI
-- Full-stack application architecture
-- AI integration into web applications
+- Modern Laravel Development
+- C# & ASP.NET Core Development
+- Full-Stack Application Architecture
+- AI-Assisted Software Development
+- AI Integration into Web Applications
 
 ---
 
