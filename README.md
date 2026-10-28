@@ -8,11 +8,13 @@ Building web applications with a focus on clean, maintainable and scalable solut
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer with **5+ years of professional experience** building web applications and APIs.
+I'm a Software Engineer with 5+ years of professional experience in web application development, backend systems, and API integrations.
 
-I’m a Full Stack Developer with experience in **PHP/Laravel, C#/.NET, and Node.js** on the backend, as well as **React/TypeScript** on the frontend. I also have experience working with databases, cloud infrastructure, and containerization.
+My professional background includes PHP/Laravel and Node.js, C#/.NET along with frontend development using JavaScript, TypeScript, and modern web technologies. 
 
-I'm continuously improving my skills through personal projects and hands-on development, with a particular interest in building modern full-stack applications.
+Throughout my career, I've worked with REST APIs, microservices, payment integrations, relational and NoSQL databases, as well as cloud-based environments using AWS and Docker.
+
+I'm continuously improving my skills in software architecture, cloud technologies, and AI-assisted development, focusing on building reliable, scalable, and maintainable applications.
 
 ---
 
