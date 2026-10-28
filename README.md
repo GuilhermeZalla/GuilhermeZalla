@@ -77,15 +77,11 @@ A game review platform built as a full-stack application, featuring game search,
 
 ### Development Tools
 
-- Git
-- GitHub Actions
-- Cursor
-- Codex
-- Composer
-- npm
-- Vite
-- Postman
-- Docker
+Version control & CI: Git, GitHub, GitHub Actions
+Environment: WSL, Docker
+Design: Figma
+Monitoring: Grafana
+AI-assisted development: Cursor, Codex
 
 ---
 
