@@ -20,7 +20,7 @@ I'm continuously improving my skills in software architecture, cloud technologie
 
 ## 🚀 Featured Projects
 
-### Saldoa (saldoa)[https://saldoa-app.duckdns.org/]
+### Saldoa ]saldoa](https://saldoa-app.duckdns.org/)
 
 A personal finance management platform built as a full-stack web application, featuring income and expense tracking, transaction categorization, budget management, financial reports, and interactive dashboards to help users monitor their spending and manage their finances.
 
