@@ -26,6 +26,8 @@ A personal finance management platform built as a full-stack web application, fe
 
 **Stack:** Laravel, PHP, React, TypeScript, MySQL
 
+Site: https://saldoa-app.duckdns.org/
+
 [View Repository](https://github.com/GuilhermeZalla/react-saldoa-app)
 
 Sneakers
