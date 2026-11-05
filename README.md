@@ -2,7 +2,7 @@
 
 ## Software Engineer 
 
-Building scalable, maintainable web applications, APIs, and backend solutions.
+Building scalable and maintainable web and mobile applications, RESTful APIs, and robust backend solutions using modern technologies.
 
 ---
 
@@ -10,11 +10,11 @@ Building scalable, maintainable web applications, APIs, and backend solutions.
 
 I'm a Software Engineer with 5+ years of professional experience in web application development, backend systems, and API integrations.
 
-My professional background includes PHP/Laravel and Node.js, C#/.NET along with frontend development using JavaScript, TypeScript, and modern web technologies. 
+My core expertise lies in PHP/Laravel and Node.js, complemented by frontend development using JavaScript, TypeScript, and React. I also have hands-on experience building cross-platform mobile applications with React Native, developing user interfaces, and integrating mobile apps with backend services and REST APIs.
 
-Throughout my career, I've worked with REST APIs, microservices, payment integrations, relational and NoSQL databases, as well as cloud-based environments using AWS and Docker.
+Throughout my career, I've worked with RESTful APIs, microservices, payment integrations, relational and NoSQL databases, as well as cloud technologies and development environments using AWS and Docker.
 
-I'm continuously improving my skills in software architecture, cloud technologies, and AI-assisted development, focusing on building reliable, scalable, and maintainable applications.
+I'm also expanding my knowledge of C#/.NET, software architecture, cloud computing, and AI-assisted development, with a focus on building reliable, scalable, and maintainable applications across web and mobile platforms.
 
 ---
 
