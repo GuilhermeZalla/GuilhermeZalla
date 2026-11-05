@@ -23,6 +23,7 @@ I'm also expanding my knowledge of C#/.NET, software architecture, cloud computi
 ### [Saldoa](https://saldoa-app.duckdns.org/)
 
 A personal finance management platform developed as a full-stack web application and a cross-platform mobile app built with React Native. It features income and expense tracking, transaction categorization, budget management, financial reports, and interactive dashboards, providing a seamless experience across web and mobile devices for monitoring spending and managing finances.
+
 **Stack:** Laravel, React, React Native, TypeScript, MySQL
 
 [View Repository](https://github.com/GuilhermeZalla/react-saldoa-app)
