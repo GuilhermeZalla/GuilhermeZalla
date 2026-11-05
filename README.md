@@ -32,7 +32,7 @@ Sneakers
 
 An e-commerce platform for sneakers and apparel, built as a full-stack application with a Laravel REST API and a React frontend. It features a filterable catalog, cart, wishlist, address book, multi-step checkout with a simulated payment, order history, and email and in-app notifications, with English/USD and Portuguese/BRL support. With session-based authentication, server-side price calculation, idempotent order creation, and automated tests.
 
-Stack: Laravel, PHP, React, TypeScript, MySQL, Sanctum, Pest
+**Stack:** Laravel, PHP, React, TypeScript, MySQL, Sanctum, Pest
 
 [View Repository](https://github.com/GuilhermeZalla/sneakers-store)
 
