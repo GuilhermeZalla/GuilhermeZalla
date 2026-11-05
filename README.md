@@ -24,7 +24,7 @@ I'm also expanding my knowledge of C#/.NET, software architecture, cloud computi
 
 A personal finance management platform built as a full-stack web application, featuring income and expense tracking, transaction categorization, budget management, financial reports, and interactive dashboards to help users monitor their spending and manage their finances.
 
-**Stack:** Laravel, PHP, React, TypeScript, MySQL
+**Stack:** Laravel, React, React Native, TypeScript, MySQL
 
 [View Repository](https://github.com/GuilhermeZalla/react-saldoa-app)
 
