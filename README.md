@@ -20,13 +20,11 @@ I'm continuously improving my skills in software architecture, cloud technologie
 
 ## 🚀 Featured Projects
 
-### Saldoa
+### Saldoa (saldoa)[https://saldoa-app.duckdns.org/]
 
 A personal finance management platform built as a full-stack web application, featuring income and expense tracking, transaction categorization, budget management, financial reports, and interactive dashboards to help users monitor their spending and manage their finances.
 
 **Stack:** Laravel, PHP, React, TypeScript, MySQL
-
-Site: https://saldoa-app.duckdns.org/
 
 [View Repository](https://github.com/GuilhermeZalla/react-saldoa-app)
 
