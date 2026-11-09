@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![Developer](blob:https://imgur.com/233e03b6-ba45-44a7-9059-7ae55a6f3fdf)
+![Developer](https://imgur.com/a/hV4BhrP)
 
 ## 👨‍💻 About Me
 
