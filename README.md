@@ -52,7 +52,7 @@ A game review platform built as a full-stack application, featuring game search,
 
 ---
 
-## ## 📚 Currently Learning
+ ## 📚 Currently Learning
 
 - Modern Laravel & ASP.NET Core Development
 - Software Architecture & Design Patterns
