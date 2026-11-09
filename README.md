@@ -2,7 +2,7 @@
 
 ## Software Engineer 
 
-Building web and mobile applications, backend systems, and RESTful APIs.
+Building web and mobile applications with a focus on backend development and software architecture.
 
 ---
 
