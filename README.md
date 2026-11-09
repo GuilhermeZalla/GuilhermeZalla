@@ -2,19 +2,19 @@
 
 ## Software Engineer 
 
-Building scalable and maintainable web and mobile applications, RESTful APIs, and robust backend solutions using modern technologies.
+Software Engineer with 5+ years of professional experience building web and mobile applications, backend systems, and RESTful APIs.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer with 5+ years of professional experience in web application development, backend systems, and API integrations.
+I'm a Software Engineer with 5+ years of experience in software development, primarily focused on building web applications, backend systems, and APIs.
 
-My core expertise lies in PHP/Laravel and Node.js, complemented by frontend development using JavaScript, TypeScript, and React. I also have hands-on experience building cross-platform mobile applications with React Native, developing user interfaces, and integrating mobile apps with backend services and REST APIs.
+Throughout my professional journey, I've worked with different technologies and architectures, gaining experience in developing and maintaining applications, integrating services, and working with databases and distributed systems.
 
-Throughout my career, I've worked with RESTful APIs, microservices, payment integrations, relational and NoSQL databases, as well as cloud technologies and development environments using AWS and Docker.
+My main areas of interest include backend development, API design, software architecture, and full-stack development. I also work with frontend technologies and React Native to build web and mobile applications.
 
-I'm also expanding my knowledge of C#/.NET, software architecture, cloud computing, and AI-assisted development, with a focus on building reliable, scalable, and maintainable applications across web and mobile platforms.
+I'm always looking to expand my knowledge, explore new technologies, and build practical projects that challenge me as a developer.
 
 ---
 
@@ -48,49 +48,21 @@ A game review platform built as a full-stack application, featuring game search,
 
 ## 🛠️ Technologies & Tools
 
-### Backend
+**Backend:** PHP, Laravel, Node.js, Express, C#, .NET
 
-- PHP / Laravel
-- Node.js / Express
-- C# / .NET
+**Frontend & Mobile:** TypeScript, React, React Native, Next.js, Vue, Tailwind CSS
 
-### Frontend
+**Databases:** MySQL, SQL Server, MongoDB, Redis
 
-- TypeScript
-- React & React Native
-- Next.js
-- Vue
-- Tailwind CSS
-- HTML5
-
-### Databases & Infrastructure
-
-- MySQL
-- SQL Server
-- MongoDB
-- Redis
-- RabbitMQ
-- AWS
-- Docker
-
-### Development Tools
-
-Version control & CI: Git, GitHub, GitHub Actions
-Environment: WSL, Docker
-Design: Figma
-Monitoring: Grafana
-AI-assisted development: Cursor, Codex
+**Infrastructure & Tools:** Docker, AWS, RabbitMQ, Git, GitHub Actions, Figma, Grafana
 
 ---
 
 ## ## 📚 Currently Learning
 
-- Advanced React & TypeScript
-- Modern Laravel Development
-- C# & ASP.NET Core Development
-- Full-Stack Application Architecture
-- AI-Assisted Software Development
-- AI Integration into Web Applications
+- Modern Laravel & ASP.NET Core Development
+- Software Architecture & Design Patterns
+- AI Integration into Applications
 
 ---
 
@@ -98,6 +70,7 @@ AI-assisted development: Cursor, Codex
 
 - [LinkedIn](https://www.linkedin.com/in/guilhermezalla/)
 - [GitHub](https://github.com/guilhermezalla)
+- [Portfolio](https://guilhermezalla.github.io/)
 
 ##
 
