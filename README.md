@@ -4,7 +4,6 @@
 
 Building web and mobile applications with a focus on backend development and software architecture.
 
----
 
 ## 👨‍💻 About Me
 
