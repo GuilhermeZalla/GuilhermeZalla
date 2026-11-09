@@ -2,7 +2,7 @@
 
 ## Software Engineer 
 
-Software Engineer with 5+ years of professional experience building web and mobile applications, backend systems, and RESTful APIs.
+Building web and mobile applications, backend systems, and RESTful APIs.
 
 ---
 
