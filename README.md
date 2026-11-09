@@ -1,10 +1,5 @@
 # Hello there 👋
 
-## Software Engineer 
-
-Building web and mobile applications with a focus on backend development and software architecture.
-
-
 ## 👨‍💻 About Me
 
 I'm a Software Engineer with 5+ years of experience in software development, primarily focused on building web applications, backend systems, and APIs.
