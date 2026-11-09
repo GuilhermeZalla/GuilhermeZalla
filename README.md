@@ -1,5 +1,7 @@
 # Hello there 👋
 
+![Developer](blob:https://imgur.com/233e03b6-ba45-44a7-9059-7ae55a6f3fdf)
+
 ## 👨‍💻 About Me
 
 I'm a Software Engineer with 5+ years of experience in software development, primarily focused on building web applications, backend systems, and APIs.
